@@ -1,3 +1,5 @@
+![logo](icon128.png)
+
 # Red Apples
 
 ## A Chrome extension to exclude Google, YouTube, and Reddit results by keyword.
